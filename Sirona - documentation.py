@@ -1,3 +1,18 @@
+from leginorma import LegifranceText, LegifranceClient
+from concurrent.futures import ThreadPoolExecutor, as_completed
+import datetime
+import re
+import json
+import requests
+import requests_cache
+import os
+import PySimpleGUI as sg
+import pandas as pd
+import html.parser
+import traceback
+import os
+
+
 ######################################################################
 #               Définition des fonctions générales                   #
 ######################################################################
