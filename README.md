@@ -9,6 +9,6 @@ Ce projet permet de constituer des traitements de données à caractère personn
 A paraître.
 
 ## Auteurs
-L. GRAMAIZE
-N. BINA
+* L. GRAMAIZE
+* N. BINA
 
